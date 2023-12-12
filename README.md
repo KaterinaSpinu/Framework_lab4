@@ -1,7 +1,9 @@
 # Framework_lab4
 
 Установка необходимых пакетов:
+
 npm install @reduxjs/toolkit react-redux
+
 Установили Redux Toolkit и react-redux для управления состоянием приложения.
 
 Контрольные вопросы
